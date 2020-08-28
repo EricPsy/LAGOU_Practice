@@ -4,7 +4,7 @@
 
 # 1 思维导图
 
-<img src="/Users/Heihei/Library/Application Support/typora-user-images/image-20200828195810961.png" alt="image-20200828195810961" style="zoom:50%;" />
+<img src="https://github.com/EricPsy/LAGOU_Practice/blob/master/%E9%98%B6%E6%AE%B5%E4%BA%8C/%E6%A8%A1%E5%9D%97%E4%BA%8C/%E5%9B%BE%E7%89%87/%E7%AA%97%E5%8F%A3%E5%87%BD%E6%95%B0.png" alt="image-20200828195810961" style="zoom:50%;" />
 
 
 
